@@ -101,7 +101,7 @@ public class DialogAddCollection extends javax.swing.JDialog {
 
         text_input.setFont(new java.awt.Font("Bahnschrift", 0, 14)); // NOI18N
 
-        button_create.setUI(new jbuttoncss.CSSButton());
+        button_create.setUI(new CSSButton());
         button_create.setBackground(new java.awt.Color(219, 43, 48));
         button_create.setFont(new java.awt.Font("Bahnschrift", 1, 12)); // NOI18N
         button_create.setForeground(new java.awt.Color(255, 255, 255));

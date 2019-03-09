@@ -272,7 +272,7 @@ public final class DialogLogin extends javax.swing.JDialog {
             }
         });
 
-        button_login.setUI(new jbuttoncss.CSSButton());
+        button_login.setUI(new CSSButton());
         button_login.setBackground(new java.awt.Color(219, 43, 48));
         button_login.setFont(new java.awt.Font("Bahnschrift", 1, 14)); // NOI18N
         button_login.setForeground(new java.awt.Color(255, 255, 255));
@@ -409,7 +409,7 @@ public final class DialogLogin extends javax.swing.JDialog {
         label_newPassword.setFont(new java.awt.Font("Bahnschrift", 0, 18)); // NOI18N
         label_newPassword.setText("password");
 
-        button_create.setUI(new jbuttoncss.CSSButton());
+        button_create.setUI(new CSSButton());
         button_create.setBackground(new java.awt.Color(219, 43, 48));
         button_create.setFont(new java.awt.Font("Bahnschrift", 1, 14)); // NOI18N
         button_create.setForeground(new java.awt.Color(255, 255, 255));
@@ -459,7 +459,7 @@ public final class DialogLogin extends javax.swing.JDialog {
         label_title.setText("NEW ACCOUNT");
         label_title.setToolTipText("");
 
-        button_back.setUI(new jbuttoncss.CSSButton());
+        button_back.setUI(new CSSButton());
         button_back.setBackground(new java.awt.Color(219, 43, 48));
         button_back.setFont(new java.awt.Font("Bahnschrift", 1, 14)); // NOI18N
         button_back.setForeground(new java.awt.Color(255, 255, 255));

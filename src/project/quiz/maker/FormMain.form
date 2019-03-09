@@ -496,7 +496,7 @@
               </Events>
               <AuxValues>
                 <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new javax.swing.JButton()"/>
-                <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="button_takeQuiz.setUI(new jbuttoncss.CSSButton ());"/>
+                <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="button_takeQuiz.setUI(new CSSButton ());"/>
               </AuxValues>
             </Component>
             <Component class="javax.swing.JButton" name="button_createNewQuestionCollection">
@@ -521,7 +521,7 @@
               </Events>
               <AuxValues>
                 <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new javax.swing.JButton()"/>
-                <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="button_createNewQuestionCollection.setUI(new jbuttoncss.CSSButton ());"/>
+                <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="button_createNewQuestionCollection.setUI(new CSSButton ());"/>
               </AuxValues>
             </Component>
             <Component class="javax.swing.JButton" name="button_viewCollection">
@@ -546,7 +546,7 @@
               </Events>
               <AuxValues>
                 <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new javax.swing.JButton()"/>
-                <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="button_viewCollection.setUI(new jbuttoncss.CSSButton ());"/>
+                <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="button_viewCollection.setUI(new CSSButton ());"/>
               </AuxValues>
             </Component>
             <Component class="javax.swing.JButton" name="button_myProfile">
@@ -571,7 +571,7 @@
               </Events>
               <AuxValues>
                 <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new javax.swing.JButton()"/>
-                <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="button_myProfile.setUI(new jbuttoncss.CSSButton ());"/>
+                <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="button_myProfile.setUI(new CSSButton ());"/>
               </AuxValues>
             </Component>
           </SubComponents>

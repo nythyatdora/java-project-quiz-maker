@@ -380,7 +380,7 @@
               </Events>
               <AuxValues>
                 <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new javax.swing.JButton()"/>
-                <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="button_reset.setUI(new jbuttoncss.CSSButton());"/>
+                <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="button_reset.setUI(new CSSButton());"/>
               </AuxValues>
             </Component>
           </SubComponents>
@@ -508,7 +508,7 @@
               </Events>
               <AuxValues>
                 <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new javax.swing.JButton()"/>
-                <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="button_confirm.setUI(new jbuttoncss.CSSButton());"/>
+                <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="button_confirm.setUI(new CSSButton());"/>
               </AuxValues>
             </Component>
             <Component class="javax.swing.JPasswordField" name="text_oldPassword">

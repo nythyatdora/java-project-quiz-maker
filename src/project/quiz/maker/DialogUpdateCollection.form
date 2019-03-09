@@ -197,7 +197,7 @@
           </Events>
           <AuxValues>
             <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new javax.swing.JButton()"/>
-            <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="button_update.setUI(new jbuttoncss.CSSButton());"/>
+            <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="button_update.setUI(new CSSButton());"/>
           </AuxValues>
         </Component>
         <Container class="javax.swing.JPanel" name="jPanel3">

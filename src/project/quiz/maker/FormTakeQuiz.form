@@ -465,7 +465,7 @@
               </Events>
               <AuxValues>
                 <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new javax.swing.JButton()"/>
-                <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="button_next.setUI(new jbuttoncss.CSSButton());"/>
+                <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="button_next.setUI(new CSSButton());"/>
               </AuxValues>
             </Component>
             <Component class="javax.swing.JLabel" name="label_score">

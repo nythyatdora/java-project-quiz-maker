@@ -181,7 +181,7 @@ public final class DialogChooseCollection extends javax.swing.JDialog {
                     .addComponent(label_title, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 100, javax.swing.GroupLayout.PREFERRED_SIZE)))
         );
 
-        button_choose.setUI(new jbuttoncss.CSSButton());
+        button_choose.setUI(new CSSButton());
         button_choose.setBackground(new java.awt.Color(219, 43, 48));
         button_choose.setFont(new java.awt.Font("Bahnschrift", 1, 12)); // NOI18N
         button_choose.setForeground(new java.awt.Color(255, 255, 255));

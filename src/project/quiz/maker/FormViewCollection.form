@@ -332,7 +332,7 @@
               </Events>
               <AuxValues>
                 <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new javax.swing.JButton()"/>
-                <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="button_browse.setUI(new jbuttoncss.CSSButton());"/>
+                <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="button_browse.setUI(new CSSButton());"/>
               </AuxValues>
             </Component>
           </SubComponents>
@@ -489,7 +489,7 @@
                   </Events>
                   <AuxValues>
                     <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new javax.swing.JButton()"/>
-                    <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="button_refresh.setUI(new jbuttoncss.CSSButton());"/>
+                    <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="button_refresh.setUI(new CSSButton());"/>
                   </AuxValues>
                 </Component>
                 <Component class="javax.swing.JButton" name="button_update">
@@ -513,7 +513,7 @@
                   </Events>
                   <AuxValues>
                     <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new javax.swing.JButton()"/>
-                    <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="button_update.setUI(new jbuttoncss.CSSButton());"/>
+                    <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="button_update.setUI(new CSSButton());"/>
                   </AuxValues>
                 </Component>
                 <Component class="javax.swing.JButton" name="button_remove">
@@ -537,7 +537,7 @@
                   </Events>
                   <AuxValues>
                     <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new javax.swing.JButton()"/>
-                    <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="button_remove.setUI(new jbuttoncss.CSSButton());"/>
+                    <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="button_remove.setUI(new CSSButton());"/>
                   </AuxValues>
                 </Component>
               </SubComponents>

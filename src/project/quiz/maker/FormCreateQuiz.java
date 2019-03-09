@@ -242,7 +242,7 @@ public final class FormCreateQuiz extends javax.swing.JFrame {
         textarea_customQuestion.setRows(5);
         jScrollPane1.setViewportView(textarea_customQuestion);
 
-        button_clear.setUI(new jbuttoncss.CSSButton());
+        button_clear.setUI(new CSSButton());
         button_clear.setBackground(new java.awt.Color(219, 43, 48));
         button_clear.setFont(new java.awt.Font("Bahnschrift", 1, 12)); // NOI18N
         button_clear.setForeground(new java.awt.Color(255, 255, 255));
@@ -290,7 +290,7 @@ public final class FormCreateQuiz extends javax.swing.JFrame {
         label_collection.setText("choose collection");
         label_collection.setToolTipText("");
 
-        button_browse.setUI(new jbuttoncss.CSSButton());
+        button_browse.setUI(new CSSButton());
         button_browse.setBackground(new java.awt.Color(219, 43, 48));
         button_browse.setFont(new java.awt.Font("Bahnschrift", 1, 12)); // NOI18N
         button_browse.setForeground(new java.awt.Color(255, 255, 255));
@@ -336,7 +336,7 @@ public final class FormCreateQuiz extends javax.swing.JFrame {
 
         panel_buttons.setBackground(new java.awt.Color(255, 255, 255));
 
-        button_create.setUI(new jbuttoncss.CSSButton());
+        button_create.setUI(new CSSButton());
         button_create.setBackground(new java.awt.Color(219, 43, 48));
         button_create.setFont(new java.awt.Font("Bahnschrift", 1, 12)); // NOI18N
         button_create.setForeground(new java.awt.Color(255, 255, 255));
@@ -347,7 +347,7 @@ public final class FormCreateQuiz extends javax.swing.JFrame {
             }
         });
 
-        button_reset.setUI(new jbuttoncss.CSSButton());
+        button_reset.setUI(new CSSButton());
         button_reset.setBackground(new java.awt.Color(219, 43, 48));
         button_reset.setFont(new java.awt.Font("Bahnschrift", 1, 12)); // NOI18N
         button_reset.setForeground(new java.awt.Color(255, 255, 255));
@@ -397,7 +397,7 @@ public final class FormCreateQuiz extends javax.swing.JFrame {
         label_inputAnswers.setText("input the answers");
         label_inputAnswers.setToolTipText("");
 
-        button_add.setUI(new jbuttoncss.CSSButton());
+        button_add.setUI(new CSSButton());
         button_add.setBackground(new java.awt.Color(219, 43, 48));
         button_add.setFont(new java.awt.Font("Bahnschrift", 1, 12)); // NOI18N
         button_add.setForeground(new java.awt.Color(255, 255, 255));
@@ -408,7 +408,7 @@ public final class FormCreateQuiz extends javax.swing.JFrame {
             }
         });
 
-        button_remove.setUI(new jbuttoncss.CSSButton());
+        button_remove.setUI(new CSSButton());
         button_remove.setBackground(new java.awt.Color(219, 43, 48));
         button_remove.setFont(new java.awt.Font("Bahnschrift", 1, 12)); // NOI18N
         button_remove.setForeground(new java.awt.Color(255, 255, 255));

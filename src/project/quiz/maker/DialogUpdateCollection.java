@@ -103,7 +103,7 @@ public class DialogUpdateCollection extends javax.swing.JDialog {
 
         text_input.setFont(new java.awt.Font("Bahnschrift", 0, 14)); // NOI18N
 
-        button_update.setUI(new jbuttoncss.CSSButton());
+        button_update.setUI(new CSSButton());
         button_update.setBackground(new java.awt.Color(219, 43, 48));
         button_update.setFont(new java.awt.Font("Bahnschrift", 1, 12)); // NOI18N
         button_update.setForeground(new java.awt.Color(255, 255, 255));

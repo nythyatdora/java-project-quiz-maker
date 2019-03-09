@@ -223,7 +223,7 @@ public class FormMyProfile extends javax.swing.JFrame {
         label_recentRecord.setFont(new java.awt.Font("Bahnschrift", 0, 18)); // NOI18N
         label_recentRecord.setText("recent record :");
 
-        button_reset.setUI(new jbuttoncss.CSSButton());
+        button_reset.setUI(new CSSButton());
         button_reset.setBackground(new java.awt.Color(219, 43, 48));
         button_reset.setFont(new java.awt.Font("Bahnschrift", 1, 14)); // NOI18N
         button_reset.setForeground(new java.awt.Color(255, 255, 255));
@@ -285,7 +285,7 @@ public class FormMyProfile extends javax.swing.JFrame {
         label_oldPassword.setFont(new java.awt.Font("Bahnschrift", 0, 18)); // NOI18N
         label_oldPassword.setText("old password");
 
-        button_confirm.setUI(new jbuttoncss.CSSButton());
+        button_confirm.setUI(new CSSButton());
         button_confirm.setBackground(new java.awt.Color(219, 43, 48));
         button_confirm.setFont(new java.awt.Font("Bahnschrift", 1, 14)); // NOI18N
         button_confirm.setForeground(new java.awt.Color(255, 255, 255));

@@ -144,7 +144,7 @@ public class DialogTestResult extends javax.swing.JDialog {
 
         jPanel7.setBackground(new java.awt.Color(255, 255, 255));
 
-        button_close.setUI(new jbuttoncss.CSSButton());
+        button_close.setUI(new CSSButton());
         button_close.setBackground(new java.awt.Color(219, 43, 48));
         button_close.setFont(new java.awt.Font("Bahnschrift", 1, 12)); // NOI18N
         button_close.setForeground(new java.awt.Color(255, 255, 255));

@@ -347,7 +347,7 @@
               </Events>
               <AuxValues>
                 <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new javax.swing.JButton()"/>
-                <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="button_clear.setUI(new jbuttoncss.CSSButton());"/>
+                <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="button_clear.setUI(new CSSButton());"/>
               </AuxValues>
             </Component>
           </SubComponents>
@@ -426,7 +426,7 @@
               </Events>
               <AuxValues>
                 <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new javax.swing.JButton()"/>
-                <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="button_browse.setUI(new jbuttoncss.CSSButton());"/>
+                <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="button_browse.setUI(new CSSButton());"/>
               </AuxValues>
             </Component>
             <Component class="javax.swing.JComboBox" name="comboBox_collection">
@@ -496,7 +496,7 @@
               </Events>
               <AuxValues>
                 <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new javax.swing.JButton()"/>
-                <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="button_create.setUI(new jbuttoncss.CSSButton());"/>
+                <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="button_create.setUI(new CSSButton());"/>
               </AuxValues>
             </Component>
             <Component class="javax.swing.JButton" name="button_reset">
@@ -517,7 +517,7 @@
               </Events>
               <AuxValues>
                 <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new javax.swing.JButton()"/>
-                <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="button_reset.setUI(new jbuttoncss.CSSButton());"/>
+                <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="button_reset.setUI(new CSSButton());"/>
               </AuxValues>
             </Component>
           </SubComponents>
@@ -615,7 +615,7 @@
               </Events>
               <AuxValues>
                 <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new javax.swing.JButton()"/>
-                <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="button_add.setUI(new jbuttoncss.CSSButton());"/>
+                <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="button_add.setUI(new CSSButton());"/>
               </AuxValues>
             </Component>
             <Component class="javax.swing.JButton" name="button_remove">
@@ -636,7 +636,7 @@
               </Events>
               <AuxValues>
                 <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new javax.swing.JButton()"/>
-                <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="button_remove.setUI(new jbuttoncss.CSSButton());"/>
+                <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="button_remove.setUI(new CSSButton());"/>
               </AuxValues>
             </Component>
             <Component class="project.quiz.maker.PanelAnswer" name="panel_answers">

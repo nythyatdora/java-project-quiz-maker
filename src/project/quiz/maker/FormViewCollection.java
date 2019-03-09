@@ -319,7 +319,7 @@ public final class FormViewCollection extends javax.swing.JFrame {
             }
         });
 
-        button_browse.setUI(new jbuttoncss.CSSButton());
+        button_browse.setUI(new CSSButton());
         button_browse.setBackground(new java.awt.Color(219, 43, 48));
         button_browse.setFont(new java.awt.Font("Bahnschrift", 1, 12)); // NOI18N
         button_browse.setForeground(new java.awt.Color(255, 255, 255));
@@ -443,7 +443,7 @@ public final class FormViewCollection extends javax.swing.JFrame {
         jPanel13.setBackground(new java.awt.Color(255, 255, 255));
         jPanel13.setLayout(new java.awt.GridLayout(1, 3, 25, 0));
 
-        button_refresh.setUI(new jbuttoncss.CSSButton());
+        button_refresh.setUI(new CSSButton());
         button_refresh.setBackground(new java.awt.Color(219, 43, 48));
         button_refresh.setFont(new java.awt.Font("Bahnschrift", 1, 12)); // NOI18N
         button_refresh.setForeground(new java.awt.Color(255, 255, 255));
@@ -456,7 +456,7 @@ public final class FormViewCollection extends javax.swing.JFrame {
         });
         jPanel13.add(button_refresh);
 
-        button_update.setUI(new jbuttoncss.CSSButton());
+        button_update.setUI(new CSSButton());
         button_update.setBackground(new java.awt.Color(219, 43, 48));
         button_update.setFont(new java.awt.Font("Bahnschrift", 1, 12)); // NOI18N
         button_update.setForeground(new java.awt.Color(255, 255, 255));
@@ -469,7 +469,7 @@ public final class FormViewCollection extends javax.swing.JFrame {
         });
         jPanel13.add(button_update);
 
-        button_remove.setUI(new jbuttoncss.CSSButton());
+        button_remove.setUI(new CSSButton());
         button_remove.setBackground(new java.awt.Color(219, 43, 48));
         button_remove.setFont(new java.awt.Font("Bahnschrift", 1, 12)); // NOI18N
         button_remove.setForeground(new java.awt.Color(255, 255, 255));

@@ -254,7 +254,7 @@ public class DialogBrowseCollection extends javax.swing.JDialog {
 
         panel_buttons.setBackground(new java.awt.Color(255, 255, 255));
 
-        button_add.setUI(new jbuttoncss.CSSButton());
+        button_add.setUI(new CSSButton());
         button_add.setBackground(new java.awt.Color(219, 43, 48));
         button_add.setFont(new java.awt.Font("Bahnschrift", 1, 12)); // NOI18N
         button_add.setForeground(new java.awt.Color(255, 255, 255));
@@ -265,7 +265,7 @@ public class DialogBrowseCollection extends javax.swing.JDialog {
             }
         });
 
-        button_delete.setUI(new jbuttoncss.CSSButton());
+        button_delete.setUI(new CSSButton());
         button_delete.setBackground(new java.awt.Color(219, 43, 48));
         button_delete.setFont(new java.awt.Font("Bahnschrift", 1, 12)); // NOI18N
         button_delete.setForeground(new java.awt.Color(255, 255, 255));
@@ -276,7 +276,7 @@ public class DialogBrowseCollection extends javax.swing.JDialog {
             }
         });
 
-        button_update.setUI(new jbuttoncss.CSSButton());
+        button_update.setUI(new CSSButton());
         button_update.setBackground(new java.awt.Color(219, 43, 48));
         button_update.setFont(new java.awt.Font("Bahnschrift", 1, 12)); // NOI18N
         button_update.setForeground(new java.awt.Color(255, 255, 255));
@@ -287,7 +287,7 @@ public class DialogBrowseCollection extends javax.swing.JDialog {
             }
         });
 
-        button_select.setUI(new jbuttoncss.CSSButton());
+        button_select.setUI(new CSSButton());
         button_select.setBackground(new java.awt.Color(219, 43, 48));
         button_select.setFont(new java.awt.Font("Bahnschrift", 1, 12)); // NOI18N
         button_select.setForeground(new java.awt.Color(255, 255, 255));

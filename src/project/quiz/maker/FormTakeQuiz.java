@@ -354,7 +354,7 @@ public final class FormTakeQuiz extends javax.swing.JFrame {
         panel_footer.setBackground(new java.awt.Color(255, 255, 255));
         panel_footer.setPreferredSize(new java.awt.Dimension(100, 66));
 
-        button_next.setUI(new jbuttoncss.CSSButton());
+        button_next.setUI(new CSSButton());
         button_next.setBackground(new java.awt.Color(219, 43, 48));
         button_next.setFont(new java.awt.Font("Bahnschrift", 1, 12)); // NOI18N
         button_next.setForeground(new java.awt.Color(255, 255, 255));

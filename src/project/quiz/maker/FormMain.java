@@ -313,7 +313,7 @@ public final class FormMain extends javax.swing.JFrame {
         panel_Center.setBackground(new java.awt.Color(255, 255, 255));
         panel_Center.setLayout(new java.awt.GridLayout(2, 3, 20, 20));
 
-        button_takeQuiz.setUI(new jbuttoncss.CSSButton ());
+        button_takeQuiz.setUI(new CSSButton ());
         button_takeQuiz.setBackground(new java.awt.Color(219, 43, 48));
         button_takeQuiz.setFont(new java.awt.Font("Bahnschrift", 0, 22)); // NOI18N
         button_takeQuiz.setForeground(new java.awt.Color(255, 255, 255));
@@ -327,7 +327,7 @@ public final class FormMain extends javax.swing.JFrame {
         });
         panel_Center.add(button_takeQuiz);
 
-        button_createNewQuestionCollection.setUI(new jbuttoncss.CSSButton ());
+        button_createNewQuestionCollection.setUI(new CSSButton ());
         button_createNewQuestionCollection.setBackground(new java.awt.Color(219, 43, 48));
         button_createNewQuestionCollection.setFont(new java.awt.Font("Bahnschrift", 0, 22)); // NOI18N
         button_createNewQuestionCollection.setForeground(new java.awt.Color(255, 255, 255));
@@ -341,7 +341,7 @@ public final class FormMain extends javax.swing.JFrame {
         });
         panel_Center.add(button_createNewQuestionCollection);
 
-        button_viewCollection.setUI(new jbuttoncss.CSSButton ());
+        button_viewCollection.setUI(new CSSButton ());
         button_viewCollection.setBackground(new java.awt.Color(219, 43, 48));
         button_viewCollection.setFont(new java.awt.Font("Bahnschrift", 0, 22)); // NOI18N
         button_viewCollection.setForeground(new java.awt.Color(255, 255, 255));
@@ -355,7 +355,7 @@ public final class FormMain extends javax.swing.JFrame {
         });
         panel_Center.add(button_viewCollection);
 
-        button_myProfile.setUI(new jbuttoncss.CSSButton ());
+        button_myProfile.setUI(new CSSButton ());
         button_myProfile.setBackground(new java.awt.Color(219, 43, 48));
         button_myProfile.setFont(new java.awt.Font("Bahnschrift", 0, 22)); // NOI18N
         button_myProfile.setForeground(new java.awt.Color(255, 255, 255));

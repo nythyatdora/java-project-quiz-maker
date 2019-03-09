@@ -261,7 +261,7 @@
               </Events>
               <AuxValues>
                 <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new javax.swing.JButton()"/>
-                <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="button_close.setUI(new jbuttoncss.CSSButton());"/>
+                <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="button_close.setUI(new CSSButton());"/>
               </AuxValues>
             </Component>
           </SubComponents>
